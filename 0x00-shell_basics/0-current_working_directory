@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ pwd
+echo $a ; a=$ pwd ; echo $a
